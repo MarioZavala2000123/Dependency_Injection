@@ -4,6 +4,6 @@ public class ServicioEnvio {
 
     public void enviar() {
 
-        System.out.println("enviando el documento a imprimir");
+        System.out.println("Documento enviado con exito, por favor espere para la impresion");
     }
 }
