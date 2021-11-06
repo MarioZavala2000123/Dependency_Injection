@@ -1,6 +1,6 @@
 package ImprimirDoc;
 
-public class Documento {
+public class Impresora {
 
     public void pdf() {
 

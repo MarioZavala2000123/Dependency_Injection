@@ -3,9 +3,9 @@ package ImprimirDoc;
 public class ServicioImpresion {
 
     ServicioEnvio servicioA;
-    Documento servicioB;
+    Impresora servicioB;
 
-    public ServicioImpresion(ServicioEnvio servicioA, Documento servicioB) {
+    public ServicioImpresion(ServicioEnvio servicioA, Impresora servicioB) {
 
         this.servicioA = servicioA;
         this.servicioB = servicioB;
